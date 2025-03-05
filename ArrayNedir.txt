@@ -1,0 +1,10 @@
+Array (Dizi), aynı türdeki verileri tek bir yapı altında saklamak için kullanılan bir veri yapısıdır. Diziler, bellekte ardışık olarak saklanır ve her elemanın bir indeks numarası vardır. Diziler, verilerin daha düzenli bir şekilde saklanmasını sağlar ve döngülerle elemanlara kolayca erişilmesine olanak tanır.
+Dizilerde indeksleme sıfırdan başlar, yani ilk eleman 0. indekse sahiptir. Statik dizilerde boyut önceden belirlenir ve değiştirilemezken, dinamik dizilerde boyut program çalışırken değiştirilebilir. Örneğin, 5 elemanlı bir dizi şu şekilde görünebilir: [10, 20, 30, 40, 50]. Bu dizide, dizinin 3. elemanına erişmek için array[2] şeklinde bir yazım kullanılır ve 30 değeri döndürülür.
+Array'ler, veri saklama ve erişim açısından verimli bir yapıdır ve özellikle büyük miktarda veriyi işlemek için yaygın olarak kullanılır.
+
+
+
+
+
+
+
